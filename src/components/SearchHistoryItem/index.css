@@ -1,40 +1,40 @@
-.history-item{
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
+.history-item {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
 }
-.item{
-    list-style: none;
-    display: flex;
-    align-items: center;
+.item {
+  list-style: none;
+  display: flex;
+  align-items: center;
 }
-.time{
-    font-size: 16px;
-    font-family: 'Roboto';
-    font-weight: 600;
-    color: #64748b;
+.time {
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #64748b;
 }
-.title{
-    font-size: 16px;
-    font-family: 'Roboto';
-    font-weight: 600;
-    color:  #475569;
+.title {
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #475569;
 }
-.domain-url{
-    font-size: 15px;
-    font-family: 'Roboto';
-    color: #64748b;
-    margin: 0 10px;
+.domain-url {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #64748b;
+  margin: 0 10px;
 }
-.button{
-    background-color: transparent;
-    outline: none;
-    border: none;
-    cursor: pointer;
+.button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
-.app-icon{
-    width: 20px;
-    margin: 0 18px 0 38px;
+.app-icon {
+  width: 20px;
+  margin: 0 18px 0 38px;
 }
